@@ -1,0 +1,62 @@
+/* -----------------------------Google font poppins--------------------------------- */
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+</style>
+
+/* ------------------------------Common css style------------------------------------ */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+ /* ---------------------------Header section start---------------------------------  */
+.honda-header-bg{
+    background-color: #264653;
+}
+.honda-header-tytle{
+    font-size: 48px;
+    font-weight: 600;
+}
+.honda-header-paragraph{
+    color: #E0E0E0;
+}
+.honda-btn{
+    color: white;
+    background-color: #E76F51;
+    padding: 10px;
+    border-radius: 5px;
+    width: 168px;
+    margin-top: 20px;
+}
+/* -------------------------------Header Section Ended----------------------------------- */
+
+/* -------------------------------Main section started----------------------------------- */
+
+/* ------------------------------Feature section start----------------------------------- */
+.honda-happy-color{
+    color: #0A0826;
+    font-weight: 600;
+}
+
+.honda-feature-paragraph{
+    color: #E76F51;
+}
+.honda-img-gray img{
+    filter: grayscale(100%);
+}
+/* -----------------------------Feature section ended------------------------------------- */
+
+/* ------------------------------Happy clients start-------------------------------------- */
+.honda-container{
+    padding: 0 50px;
+}
+.honda-happy-client{
+    padding: 40px 35px;
+}
+.honda-clients-color{
+    color: #E76F51;
+    font-weight: 600;
+}
+.fas.fa-star.honda-icon{
+    color: #E77C40;
+}
+
